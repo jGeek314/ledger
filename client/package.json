@@ -4,7 +4,7 @@
     "private": true,
     "proxy": "http://localhost:8020/src/index.cfm",
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "express": "^4.16.4",
         "font-awesome": "^4.7.0",
         "http-proxy-middleware": "^0.19.1",
